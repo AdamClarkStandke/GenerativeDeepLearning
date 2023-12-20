@@ -4,6 +4,9 @@ Repository for Documenting different generative learning approaches using the [K
 
 * Generic Auto-Encoder
 * Variational Auto-Encoder
+* Autoregressive Models
+* Normalizing Flow Models
+* Energy Based Models
 * Denoising Diffusion Probabilistic Models 
 * Denoising Diffusion Implicit Models
 * Stable Diffusion
