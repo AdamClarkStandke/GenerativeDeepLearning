@@ -6,7 +6,7 @@ Repository for Documenting different generative learning approaches using the [K
 * [Variational Auto-Encoder](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/VAE.ipynb)
 * Autoregressive Models
   >*  [Text Generation using LSTMs](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/AutoRegressiveModels_TextGeneration.ipynb)
-  >*  [PixelCNN]()
+  >*  [PixelCNN++]()
 * Normalizing Flow Models
 * Energy Based Models
 * Denoising Diffusion Probabilistic Models 
