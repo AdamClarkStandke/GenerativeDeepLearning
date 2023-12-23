@@ -7,9 +7,8 @@ Repository for Documenting different generative learning approaches using the [K
 * Autoregressive Models
   >*  [Text Generation using LSTMs](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/AutoRegressiveModels_TextGeneration.ipynb)
   >*  [PixelCNN++](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/PixelCNN.ipynb)
-* Normalizing Flow Models
-* Energy Based Models
 * [Denoising Diffusion Probabilistic Models](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GenerativeDeepLearning.ipynb)
 * [Denoising Diffusion Implicit Models](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GenerativeDeepLearning.ipynb)
+* Transformers
 * Stable Diffusion
 * Graph generation
