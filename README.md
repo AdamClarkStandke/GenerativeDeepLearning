@@ -10,5 +10,6 @@ Repository for Documenting different generative learning approaches using the [K
   >*  [Generative Pre-trained Transformer (GPT)]()
 * [Denoising Diffusion Probabilistic Models](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GenerativeDeepLearning.ipynb)
 * [Denoising Diffusion Implicit Models](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GenerativeDeepLearning.ipynb)
-* Stable Diffusion
+* MultiModal Models
+  >* Stable Diffusion 
 * Graph generation
