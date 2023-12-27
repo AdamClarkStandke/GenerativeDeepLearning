@@ -11,5 +11,5 @@ Repository for Documenting different generative learning approaches using the [K
   >* [Denoising Diffusion Probabilistic Models](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GenerativeDeepLearning.ipynb)
   >* [Denoising Diffusion Implicit Models](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GenerativeDeepLearning.ipynb)
 * MultiModal Models
-  >* Stable Diffusion 
+  >* [Stable Diffusion](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion.ipynb) 
 * Graph generation
