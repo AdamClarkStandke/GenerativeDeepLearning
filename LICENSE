@@ -23,7 +23,7 @@ SOFTWARE.
 Copyright (c) 2022 Robin Rombach and Patrick Esser and contributors
 
 
-CreativeML Open RAIL-M
+CreativeML Open RAIL-M License
 dated August 22, 2022
 
 Section I: PREAMBLE
@@ -103,6 +103,8 @@ You agree not to use the Model or Derivatives of the Model:
 
 
 Copyright (c) 2023 Adam Standke
+
+Additional License
 
 In addition to the TERMS AND CONDITIONS and Use Restrictions above for multimodal generative models this liscense forbids using any of the generative models as uploaded
 in this repository such as Diffusion Models, Autoregressive Models and/or Auto-Encoders in any way that violates the following Use Restrictions:
