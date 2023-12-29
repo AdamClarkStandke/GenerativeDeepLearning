@@ -9,9 +9,11 @@ Repository for Documenting different generative learning approaches using the [K
   >*  [Text Generation using LSTMs](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/AutoRegressiveModels_TextGeneration.ipynb)
   >*  [PixelCNN++](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/PixelCNN.ipynb)
   >*  [Generative Pre-trained Transformer (GPT)](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GPT.ipynb)
+  >*  Music Generation
 *  Diffusion Models
   >* [Denoising Diffusion Probabilistic Models](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GenerativeDeepLearning.ipynb)
   >* [Denoising Diffusion Implicit Models](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GenerativeDeepLearning.ipynb)
 * MultiModal Models
   >* [Stable Diffusion](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion.ipynb) 
-* Graph generation
+
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/generated_art%20(3).png)
