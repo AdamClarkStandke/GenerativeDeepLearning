@@ -1,3 +1,5 @@
+## Click the picture to hear machine generated music 
+
 [![CLICK HERE](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/generated_art.png)](https://soundcloud.com/adam-klausii-s)
 
 *Created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion.ipynb) and [MusicGeneration](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/MusicGeneration.ipynb)*
