@@ -2,11 +2,16 @@
 
 [![CLICK HERE](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/generated_art.png)](https://soundcloud.com/adam-klausii-s)
 
-*Created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion.ipynb) and [MusicGeneration](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/MusicGeneration.ipynb)*
+*Image created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion.ipynb) and music created [MusicGeneration](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/MusicGeneration.ipynb)*
 
 --------------------------------
 
-Repository for documenting different generative learning approaches using the [Keras library and tutorials](https://keras.io/examples/generative/) for [synthetic data](https://www.amazon.com/Synthetic-Data-Machine-Learning-revolutionary-ebook/dp/B0BVMRHBNN) and [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947). This repo impements the following models:
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/output-0.gif)
+
+*Gif created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion.ipynb)*
+
+-----------
+This is a repository that documents different generative learning approaches using the [Keras library and tutorials](https://keras.io/examples/generative/) for [synthetic data](https://www.amazon.com/Synthetic-Data-Machine-Learning-revolutionary-ebook/dp/B0BVMRHBNN) and [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947). This repo impements the following models:
 
 * Auto-Encoders
   >* [Generic Auto-Encoder](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/AE.ipynb)
@@ -25,4 +30,4 @@ Repository for documenting different generative learning approaches using the [K
 -----------------
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/house.png)
-*Created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion.ipynb)*
+*Images created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion.ipynb)*
