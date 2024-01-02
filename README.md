@@ -2,13 +2,13 @@
 
 [![CLICK HERE](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/generated_art.png)](https://soundcloud.com/adam-klausii-s)
 
-*Image created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion.ipynb) and music created [MusicGeneration](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/MusicGeneration.ipynb)*
+*Image created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion_Text2Image.ipynb) and music created [MusicGeneration](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/MusicGeneration.ipynb)*
 
 --------------------------------
 
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/output-0.gif)
 
-*Gif created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion.ipynb)*
+*Gif created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion_Text2Image.ipynb)*
 
 -----------
 This is a repository that documents different generative learning approaches using the [Keras library and tutorials](https://keras.io/examples/generative/) for [synthetic data](https://www.amazon.com/Synthetic-Data-Machine-Learning-revolutionary-ebook/dp/B0BVMRHBNN) and [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947). This repo impements the following models:
@@ -30,4 +30,4 @@ This is a repository that documents different generative learning approaches usi
 -----------------
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/house.png)
-*Images created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion.ipynb)*
+*Images created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion_Text2Image.ipynb)*
