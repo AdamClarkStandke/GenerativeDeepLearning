@@ -28,6 +28,13 @@
 
 --------------
 
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/bowler_hat_man.gif)
+
+*Gif created using [StableDiffusion-LatentSpace](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_LatentSpace.ipynb) using the two image prompts of **A still life drawing of a man in a black suit at the beach** and **A still life DSLR photo of a man in a black suit at the beach** with 150 interpolation steps in the latent space and batch size of 3*
+
+
+---------------
+
 This is a repository that documents different generative learning approaches using the [Keras library and tutorials](https://keras.io/examples/generative/) for [synthetic data](https://www.amazon.com/Synthetic-Data-Machine-Learning-revolutionary-ebook/dp/B0BVMRHBNN) and [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947). This repo impements the following models:
 
 * Auto-Encoders
