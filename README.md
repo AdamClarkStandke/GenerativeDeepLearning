@@ -36,7 +36,13 @@
 
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/paris_at_night.gif)
 
-*Gif created using [StableDiffusion-LatentSpace](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_LatentSpace.ipynb) using one text prompt of **The Arc de Triomphe de l'Étoile in the style of Saturn Devouring His Son** with 150 interpolation steps in the text based latent manifold, batch size of 3, and step size of 0.005*
+*Gif created using [StableDiffusion-LatentSpace](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_LatentSpace.ipynb) using one text prompt of **The Arc de Triomphe de l'Étoile in the style of Saturn Devouring His Son** with 150 steps in the text based latent manifold, batch size of 3, and step size of 0.005*
+
+---------
+
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/circular_walk_paris_at_night.gif)
+
+*Gif created using [StableDiffusion-LatentSpace](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_LatentSpace.ipynb) using one text prompt of **Paris Arc de Triomphe in style of Saturn Devouring His Son** by  using the trigonometric functions of cosine(x) and sine(y) to scale a normal distribution by 150 steps and summing the results to produce the diffusion noise.  
 
 ---------
 
