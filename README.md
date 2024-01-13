@@ -66,16 +66,22 @@ This is a repository that documents different generative learning approaches usi
 -----------------
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/house.png)
+
 *Images created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion_Text2Image.ipynb)*
 
 --------------------
 
-![]()
+### Dogs drinking coffee and playing football
+
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(1).gif)
+
 *Gif created using [LatentSpaceGifMaker](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/LatentSpaceGifMaker.ipynb)*
 
 --------------------
 
-![]()
+### Dogs drinking coffee
+
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff.gif)
 *Gif created using [LatentSpaceGifMaker](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/LatentSpaceGifMaker.ipynb)*
 
 ----------------------
