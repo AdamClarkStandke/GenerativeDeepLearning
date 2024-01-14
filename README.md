@@ -4,12 +4,6 @@
 
 *Image created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion_Text2Image.ipynb) and music created [MusicGeneration](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/MusicGeneration.ipynb)*
 
---------------------------------
-
-![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/output-0.gif)
-
-*Gif created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion_Text2Image.ipynb)*
-
 -----------
 
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/doggo-and-fruit-5.gif)
