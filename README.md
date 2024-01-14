@@ -73,15 +73,8 @@ This is a repository that documents different generative learning approaches usi
 
 ### Dogs drinking coffee and playing football
 
-![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(1).gif)
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(3).gif)
 
-*Gif created using [LatentSpaceGifMaker](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/LatentSpaceGifMaker.ipynb)*
-
---------------------
-
-### Dogs drinking coffee
-
-![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff.gif)
 *Gif created using [LatentSpaceGifMaker](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/LatentSpaceGifMaker.ipynb)*
 
 ----------------------
