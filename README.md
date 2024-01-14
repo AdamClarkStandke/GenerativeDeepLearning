@@ -78,3 +78,19 @@ This is a repository that documents different generative learning approaches usi
 *Gif created using [LatentSpaceGifMaker](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/LatentSpaceGifMaker.ipynb) using 1 text prompt of dogs drinking coffee in outer space overlooking earth with with random walk and circular walk enabled using 12 random steps, step size of 0.005, cfg_scale of 7.5, batch size of 3 and num of diffusion steps of 25*
 
 ----------------------
+
+### dogs drinking coffee in outer space overlooking earth
+
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/circularNoise.gif)
+
+*Gif created using [LatentSpaceGifMaker](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/LatentSpaceGifMaker.ipynb) using 1 text prompt of dogs drinking coffee in outer space overlooking earth with circular walk enabled using 12 random steps, cfg_scale of 7.5, batch size of 3 and num of diffusion steps of 25*
+
+----------------------
+
+### dogs drinking coffee in outer space overlooking earth
+
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/randomWalk.gif)
+
+*Gif created using [LatentSpaceGifMaker](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/LatentSpaceGifMaker.ipynb) using 1 text prompt of dogs drinking coffee in outer space overlooking earth with random walk enabled using 12 random steps, cfg_scale of 7.5, batch size of 3 and num of diffusion steps of 25*
+
+----------------------
