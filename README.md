@@ -55,7 +55,8 @@ This is a repository that documents different generative learning approaches usi
   >* [Denoising Diffusion Implicit Models](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GenerativeDeepLearning.ipynb)
 * MultiModal Models
   >* [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion_Text2Image.ipynb)
-  >* [StabeDiffusion-LatentSpace](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_LatentSpace.ipynb)
+  >* [StabeDiffusion-LatentSpaceManipulation](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_LatentSpace.ipynb)
+  >* [StabeDiffusion-TextualInversion](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/Textual_Inversion.ipynb)
 
 -----------------
 
@@ -88,3 +89,27 @@ This is a repository that documents different generative learning approaches usi
 *Gif created using [LatentSpaceGifMaker](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/LatentSpaceGifMaker.ipynb) using 1 text prompt of dogs drinking coffee in outer space overlooking earth with random walk enabled using 12 random steps, cfg_scale of 7.5, batch size of 3 and num of diffusion steps of 25*
 
 ----------------------
+*My beautiful face*
+
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/IMG_0567.jpg)
+
+### an oil painting of {my-funny-face-token} (i.e. my  beuatiful face)
+
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/face_one.png)
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/face_six.png)
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/face_eight.png)
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/face_seven.png)
+
+-----------------------
+### gandalf the gray as a {my-funny-face-token}(i.e. my  beuatiful face)
+
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/face_four.png)
+
+------------------------
+### two {my-funny-face-token} getting married, photorealistic, high quality (i.e. my  beuatiful face)
+
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/face_nine.png)
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/face_three.png)
+
+*Images created using [StabeDiffusion-TextualInversion](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/Textual_Inversion.ipynb)*
+
