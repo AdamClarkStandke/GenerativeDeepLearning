@@ -96,15 +96,15 @@ This is a repository that documents different generative learning approaches usi
 ### Generated Images: 
 **Prompt: an oil painting of {my-sexy-face-token}** 
 
-![alt text]()
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/faces_two%20(5).png)
 
 **Prompt: gandalf the gray as a {my-sexy-face-token}**
 
-![alt text]()
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/faces_two%20(6).png)
 
 **Prompt: two {my-sexy-face-token} getting married, photorealistic, high quality**
 
-![alt text]()
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/faces_two%20(7).png)
 
 *Generated Images created using [StabeDiffusion-TextualInversion](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/Textual_Inversion.ipynb)*
 
