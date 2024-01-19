@@ -91,7 +91,7 @@ This is a repository that documents different generative learning approaches usi
 ----------------------
 ### Original Images:
 
-![alt text]()
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/faces_two%20(4).png)
 
 ### Generated Images: 
 **Prompt: an oil painting of {my-sexy-face-token}** 
