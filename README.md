@@ -65,6 +65,7 @@ This is a repository that documents different generative learning approaches usi
 *Images created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion_Text2Image.ipynb)*
 
 --------------------
+# Traversing Along Stable Diffusion's Latent Space
 
 ### dogs drinking coffee in outer space overlooking earth
 
@@ -72,15 +73,12 @@ This is a repository that documents different generative learning approaches usi
 
 *Gif created using [LatentSpaceGifMaker](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/LatentSpaceGifMaker.ipynb) using 1 text prompt of dogs drinking coffee in outer space overlooking earth with with random walk and circular walk enabled using 12 random steps, step size of 0.005, cfg_scale of 7.5, batch size of 3 and num of diffusion steps of 25*
 
-----------------------
-
 ### dogs drinking coffee in outer space overlooking earth
 
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/circularNoise.gif)
 
 *Gif created using [LatentSpaceGifMaker](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/LatentSpaceGifMaker.ipynb) using 1 text prompt of dogs drinking coffee in outer space overlooking earth with circular walk enabled using 12 random steps, cfg_scale of 7.5, batch size of 3 and num of diffusion steps of 25*
 
-----------------------
 
 ### dogs drinking coffee in outer space overlooking earth
 
@@ -89,11 +87,14 @@ This is a repository that documents different generative learning approaches usi
 *Gif created using [LatentSpaceGifMaker](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/LatentSpaceGifMaker.ipynb) using 1 text prompt of dogs drinking coffee in outer space overlooking earth with random walk enabled using 12 random steps, cfg_scale of 7.5, batch size of 3 and num of diffusion steps of 25*
 
 ----------------------
-### Original Images:
+# Textual Inversion of Stable Diffusion's Textual Latent Manifold
+
+### Input Images:
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/faces_two%20(4).png)
 
-### Generated Images: 
+### Generated Images and Prompts Used:
+
 **Prompt: an oil painting of {my-sexy-face-token}** 
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/faces_two%20(5).png)
@@ -107,4 +108,14 @@ This is a repository that documents different generative learning approaches usi
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/faces_two%20(7).png)
 
 *Generated Images created using [StabeDiffusion-TextualInversion](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/Textual_Inversion.ipynb)*
+
+**Prompt(s): man in fancy suit with {my-sexy-face-token} walking in New York""high quality, highly detailed, elegant, sharp focus" "character concepts, mystery, adventure"**
+
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/main_suit(2).png)
+
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/main_suit.png)
+
+*Generated Images created using [MyPersonalizedWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/text_inversion_with_myface.ipynb)*
+
+
 
