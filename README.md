@@ -87,7 +87,7 @@ This is a repository that documents different generative learning approaches usi
 *Gif created using [LatentSpaceGifMaker](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/LatentSpaceGifMaker.ipynb) using 1 text prompt of dogs drinking coffee in outer space overlooking earth with random walk enabled using 12 random steps, cfg_scale of 7.5, batch size of 3 and num of diffusion steps of 25*
 
 ----------------------
-# Textual Inversion of Stable Diffusion's Textual Latent Manifold
+# Textual Inversion of Stable Diffusion's Embedding Space 
 
 ### Input Images:
 
@@ -117,11 +117,23 @@ This is a repository that documents different generative learning approaches usi
 
 *Generated Images created using [MyPersonalizedWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/text_inversion_with_myface.ipynb)*
 
+----------------------
+
+# Combining Stable Diffussion's Textual Embedding Space with the Image Manifold
+
 **Prompt: man in fancy suit with {placeholder_token} walking in New York high quality, highly detailed, elegant, sharp focus, adventure**
 
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/circular_walk_paris_at_night%20(1).gif)
 
 *Gif created using [MyPersonalizedWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/text_inversion_with_myface.ipynb)*
+
+**Prompt: man  with {placeholder_token} in fancy suit in a red ferrari driving in Frankfurt high quality, highly detailed, elegant, sharp focus**
+
+![]()
+
+*Gif created using [MyPersonalizedWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/text_inversion_with_myface.ipynb) with the following hyperparameters/configurations: cfg_scale = 7.5; walk_steps = 60; batch_size = 3; noise_start = normal distribution; diffusion_noise = scaled cos/sin; num_of_Diffusion_steps=25*
+
+
 
 
 
