@@ -117,6 +117,8 @@ This is a repository that documents different generative learning approaches usi
 
 *Generated Images created using [MyPersonalizedWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/text_inversion_with_myface.ipynb)*
 
+**Prompt: man in fancy suit with {placeholder_token} walking in New York high quality, highly detailed, elegant, sharp focus, adventure**
+
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/circular_walk_paris_at_night%20(1).gif)
 
 *Gif created using [MyPersonalizedWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/text_inversion_with_myface.ipynb)*
