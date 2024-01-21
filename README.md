@@ -121,6 +121,8 @@ This is a repository that documents different generative learning approaches usi
 
 # Combining Stable Diffusion's Textual Embedding Space with its Image Manifold
 
+My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/StableDiffusionTextInversion/tree/main) and must be loaded beforehand in **layer two** of Stable Diffusion/CLIP's text encoder
+
 **Prompt: man  with {placeholder_token} in fancy suit in a red ferrari driving in Frankfurt high quality, highly detailed, elegant, sharp focus**
 
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/exp_one.gif)
@@ -150,4 +152,10 @@ This is a repository that documents different generative learning approaches usi
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/exp_two%20(3).gif)
 
 *Gif created using [MyPersonalizedWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/text_inversion_with_myface.ipynb) with the following hyperparameters/configurations: cfg_scale = 8; walk_steps = 60; batch_size = 3; noise_start = normal distribution; diffusion_noise = unscaled; num_of_Diffusion_steps=50;negative_prompt=None; frame_per_seconds=10*
+
+**Prompt: man  with {placeholder_token} in fancy suit in a red ferrari driving in Frankfurt high quality, highly detailed, elegant, sharp focus**
+
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/exp_two%20(4).gif)
+
+*Gif created using [MyPersonalizedWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/text_inversion_with_myface.ipynb) with the following hyperparameters/configurations: cfg_scale = 8; walk_steps = 60; batch_size = 3; noise_start = (technically) None; diffusion_noise = (technically) None ; num_of_Diffusion_steps=50;negative_prompt=None; frame_per_seconds=10*
 
