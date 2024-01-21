@@ -121,12 +121,6 @@ This is a repository that documents different generative learning approaches usi
 
 # Combining Stable Diffusion's Textual Embedding Space with its Image Manifold
 
-**Prompt: man in fancy suit with {placeholder_token} walking in New York high quality, highly detailed, elegant, sharp focus, adventure**
-
-![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/circular_walk_paris_at_night%20(1).gif)
-
-*Gif created using [MyPersonalizedWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/text_inversion_with_myface.ipynb)*
-
 **Prompt: man  with {placeholder_token} in fancy suit in a red ferrari driving in Frankfurt high quality, highly detailed, elegant, sharp focus**
 
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/exp_one.gif)
