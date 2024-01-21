@@ -119,7 +119,7 @@ This is a repository that documents different generative learning approaches usi
 
 ----------------------
 
-# Combining Stable Diffussion's Textual Embedding Space with the Image Manifold
+# Combining Stable Diffusion's Textual Embedding Space with its Image Manifold
 
 **Prompt: man in fancy suit with {placeholder_token} walking in New York high quality, highly detailed, elegant, sharp focus, adventure**
 
