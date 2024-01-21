@@ -153,7 +153,7 @@ This is a repository that documents different generative learning approaches usi
 
 **Prompt: man  with {placeholder_token} in fancy suit in a red ferrari driving in Frankfurt high quality, highly detailed, elegant, sharp focus**
 
-![]()
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/exp_two%20(3).gif)
 
 *Gif created using [MyPersonalizedWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/text_inversion_with_myface.ipynb) with the following hyperparameters/configurations: cfg_scale = 8; walk_steps = 60; batch_size = 3; noise_start = normal distribution; diffusion_noise = unscaled; num_of_Diffusion_steps=50;frame_per_seconds=10*
 
