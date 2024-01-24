@@ -95,21 +95,21 @@ This is a repository that documents different generative learning approaches usi
 
 ### Generated Images and Prompts Used:
 
-**Prompt: an oil painting of {my-sexy-face-token}** 
+**Prompt: an oil painting of {placeholder_token}** 
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/faces_two%20(5).png)
 
-**Prompt: gandalf the gray as a {my-sexy-face-token}**
+**Prompt: gandalf the gray as a {placeholder_token}**
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/faces_two%20(6).png)
 
-**Prompt: two {my-sexy-face-token} getting married, photorealistic, high quality**
+**Prompt: two {placeholder_token} getting married, photorealistic, high quality**
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/faces_two%20(7).png)
 
 *Generated Images created using [StabeDiffusion-TextualInversion](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/Textual_Inversion.ipynb)*
 
-**Prompt(s): man in fancy suit with {my-sexy-face-token} walking in New York""high quality, highly detailed, elegant, sharp focus" "character concepts, mystery, adventure"**
+**Prompt(s): man in fancy suit with {placeholder_token} walking in New York""high quality, highly detailed, elegant, sharp focus" "character concepts, mystery, adventure"**
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/main_suit(2).png)
 
