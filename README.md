@@ -174,7 +174,7 @@ My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/Stab
 ----------------------
 # Textual Inversion of Stable Diffusion's Embedding Space using Style prompts
 
-My Pre-trained weights can be found [here]() and must be loaded beforehand in **layer two** of Stable Diffusion/CLIP's text encoder before generating images/gifs. The artistic style used to train the embedding vector was art produced by my favorite painter [Wassily Kandinsky](https://en.wikipedia.org/wiki/Wassily_Kandinsky).
+My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/StableDiffusionTextInversion/tree/main) and must be loaded beforehand in **layer two** of Stable Diffusion/CLIP's text encoder before generating images/gifs. The artistic style used to train the embedding vector was art produced by my favorite painter [Wassily Kandinsky](https://en.wikipedia.org/wiki/Wassily_Kandinsky).
 
 **Prompt: New York City in style of {placeholder_token}**
 
