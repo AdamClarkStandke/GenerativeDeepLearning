@@ -174,14 +174,30 @@ My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/Stab
 ----------------------
 # Textual Inversion of Stable Diffusion's Embedding Space using Style prompts
 
-My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/StableDiffusionTextInversion/tree/main) and must be loaded beforehand in **layer two** of Stable Diffusion/CLIP's text encoder before generating images/gifs. The artistic style used to train the embedding vector was art produced by my favorite painter [Wassily Kandinsky](https://en.wikipedia.org/wiki/Wassily_Kandinsky).
+### Input Styles:
+
+The artistic style used to train the embedding vector was art produced by my favorite painter [Wassily Kandinsky](https://en.wikipedia.org/wiki/Wassily_Kandinsky).
+
+![alt text]()
+
+My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/StableDiffusionTextInversion/tree/main) and must be loaded beforehand in **layer two** of Stable Diffusion/CLIP's text encoder before generating images/gifs. 
 
 **Prompt: New York City in style of {placeholder_token}**
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(5).png)
 
-![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(4).png)
-
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(1).png)
+
+**Prompt: Moscow in style of {placeholder_token}**
+
+![alt text]()
+
+**Prompt: Skateboarder in style of {placeholder_token}**
+
+![alt text]()
+
+**Prompt: Cows in style of {placeholder_token}**
+
+![alt text]()
 
 *Images created using [MyPersonalizedSyleWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/TextualInversion_StyleTransfer.ipynb) 
