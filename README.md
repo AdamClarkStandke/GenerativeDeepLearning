@@ -87,7 +87,7 @@ This is a repository that documents different generative learning approaches usi
 *Gif created using [LatentSpaceGifMaker](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/LatentSpaceGifMaker.ipynb) using 1 text prompt of dogs drinking coffee in outer space overlooking earth with random walk enabled using 12 random steps, cfg_scale of 7.5, batch size of 3 and num of diffusion steps of 25*
 
 ----------------------
-# Textual Inversion of Stable Diffusion's Embedding Space 
+# Textual Inversion of Stable Diffusion's Embedding Space using Non-Style prompts
 
 ### Input Images:
 
@@ -119,9 +119,9 @@ This is a repository that documents different generative learning approaches usi
 
 ----------------------
 
-# Combining Stable Diffusion's Textual Embedding Space with its Image Manifold
+# Combining Stable Diffusion's Textual Embedding Space with its Image Manifold through Textual Inversion and non-style prompts
 
-My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/StableDiffusionTextInversion/tree/main) and must be loaded beforehand in **layer two** of Stable Diffusion/CLIP's text encoder
+My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/StableDiffusionTextInversion/tree/main) and must be loaded beforehand in **layer two** of Stable Diffusion/CLIP's text encoder before generating images/gifs.
 
 **Prompt: man  with {placeholder_token} in fancy suit in a red ferrari driving in Frankfurt high quality, highly detailed, elegant, sharp focus**
 
@@ -171,4 +171,17 @@ My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/Stab
 
 *Gif created using [MyPersonalizedWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/text_inversion_with_myface.ipynb) with the following hyperparameters/configurations: cfg_scale = 8; walk_steps = 60; batch_size = 3; noise_start = normal distribution; diffusion_noise = scaled by min_freq 1 max freq 1000; num_of_Diffusion_steps=50;negative_prompt=None; frame_per_seconds=10*
 
+----------------------
+# Textual Inversion of Stable Diffusion's Embedding Space using Style prompts
 
+My Pre-trained weights can be found [here]() and must be loaded beforehand in **layer two** of Stable Diffusion/CLIP's text encoder before generating images/gifs. The artistic style used to train the embedding vector was art produced by my favorite painter [Wassily Kandinsky](https://en.wikipedia.org/wiki/Wassily_Kandinsky).
+
+**Prompt: New York City in style of {placeholder_token}**
+
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(5).png)
+
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(4).png)
+
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(1).png)
+
+*Images created using [MyPersonalizedSyleWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/TextualInversion_StyleTransfer.ipynb) 
