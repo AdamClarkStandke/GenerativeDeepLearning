@@ -178,7 +178,7 @@ My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/Stab
 
 The artistic style used to train the embedding vector was art produced by my favorite painter [Wassily Kandinsky](https://en.wikipedia.org/wiki/Wassily_Kandinsky).
 
-![alt text]()
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/faces_two%20(8).png)
 
 My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/StableDiffusionTextInversion/tree/main) and must be loaded beforehand in **layer two** of Stable Diffusion/CLIP's text encoder before generating images/gifs. 
 
@@ -190,14 +190,14 @@ My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/Stab
 
 **Prompt: Moscow in style of {placeholder_token}**
 
-![alt text]()
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(1).png)
 
 **Prompt: Skateboarder in style of {placeholder_token}**
 
-![alt text]()
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(2).png)
 
 **Prompt: Cows in style of {placeholder_token}**
 
-![alt text]()
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(3).png)
 
 *Images created using [MyPersonalizedSyleWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/TextualInversion_StyleTransfer.ipynb) 
