@@ -1,4 +1,27 @@
-## Click the picture to hear machine generated music 
+# Generative Deep Learning Repo
+
+This is a repository that documents different generative learning approaches using the [Keras library and tutorials](https://keras.io/examples/generative/) for [synthetic data](https://www.amazon.com/Synthetic-Data-Machine-Learning-revolutionary-ebook/dp/B0BVMRHBNN), [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947), and [hugging face](https://huggingface.co/docs/diffusers/index). This repo impements the following models:
+
+* Auto-Encoders
+  >* [Generic Auto-Encoder](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/AE.ipynb)
+  >* [Variational Auto-Encoder](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/VAE.ipynb)
+* Autoregressive Models
+  >*  [Text Generation using LSTMs](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/AutoRegressiveModels_TextGeneration.ipynb)
+  >*  [PixelCNN++](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/PixelCNN.ipynb)
+  >*  [Generative Pre-trained Transformer (GPT)](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GPT.ipynb)
+  >*  [MusicGeneration](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/MusicGeneration.ipynb)
+*  Diffusion Models
+  >* [Denoising Diffusion Probabilistic Models](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GenerativeDeepLearning.ipynb)
+  >* [Denoising Diffusion Implicit Models](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GenerativeDeepLearning.ipynb)
+* MultiModal Models
+  >* [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion_Text2Image.ipynb)
+  >* [StabeDiffusion-LatentSpaceManipulation](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_LatentSpace.ipynb)
+  >* [StabeDiffusion-TextualInversion](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/Textual_Inversion.ipynb)
+  >* [StabeDiffusion-Image2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_img2img.ipynb)
+
+-----------------
+
+**Click the picture to hear machine generated music** 
 
 [![CLICK HERE](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/generated_art.png)](https://soundcloud.com/adam-klausii-s)
 
@@ -39,26 +62,6 @@
 *Gif created using [StableDiffusion-LatentSpace](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_LatentSpace.ipynb) using one text prompt of **Paris Arc de Triomphe in style of Saturn Devouring His Son** by  using the trigonometric functions of cosine(x) and sine(y) to scale a normal distribution by 150 steps and summing the results to produce the diffusion noise.  
 
 ---------
-
-This is a repository that documents different generative learning approaches using the [Keras library and tutorials](https://keras.io/examples/generative/) for [synthetic data](https://www.amazon.com/Synthetic-Data-Machine-Learning-revolutionary-ebook/dp/B0BVMRHBNN) and [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1492041947). This repo impements the following models:
-
-* Auto-Encoders
-  >* [Generic Auto-Encoder](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/AE.ipynb)
-  >* [Variational Auto-Encoder](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/VAE.ipynb)
-* Autoregressive Models
-  >*  [Text Generation using LSTMs](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/AutoRegressiveModels_TextGeneration.ipynb)
-  >*  [PixelCNN++](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/PixelCNN.ipynb)
-  >*  [Generative Pre-trained Transformer (GPT)](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GPT.ipynb)
-  >*  [MusicGeneration](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/MusicGeneration.ipynb)
-*  Diffusion Models
-  >* [Denoising Diffusion Probabilistic Models](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GenerativeDeepLearning.ipynb)
-  >* [Denoising Diffusion Implicit Models](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/GenerativeDeepLearning.ipynb)
-* MultiModal Models
-  >* [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion_Text2Image.ipynb)
-  >* [StabeDiffusion-LatentSpaceManipulation](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_LatentSpace.ipynb)
-  >* [StabeDiffusion-TextualInversion](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/Textual_Inversion.ipynb)
-
------------------
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/house.png)
 
@@ -223,4 +226,4 @@ Left image is the input image, right image is newly generated image based on pro
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(9).png)
 
-*Images created using [StableDiffusionIMG2IMGNotebook](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_img2img.ipynb)* 
+*Images created using [StabeDiffusion-Image2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_img2img.ipynb)* 
