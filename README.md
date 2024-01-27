@@ -200,7 +200,7 @@ My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/Stab
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(3).png)
 
-*Images created using [MyPersonalizedSyleWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/TextualInversion_StyleTransfer.ipynb) 
+*Images created using [MyPersonalizedSyleWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/TextualInversion_StyleTransfer.ipynb)*
 
 ----------------------
 # Stable Diffusion Image-to-Image Application
@@ -209,11 +209,7 @@ Left image is the input image, right image is newly generated image based on pro
 
 **Prompt: wizard, gandalf, lord of the rings, detailed, fantasy, cute, adorable, Pixar, Disney, 8k**
 
-![alt text]()
-
-**Prompt: my face with afro hairstyle**
-
-![alt text]()
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(6).png)
 
 **Prompt: my face with afro hairstyle**
 
@@ -221,9 +217,10 @@ Left image is the input image, right image is newly generated image based on pro
 
 **Prompt: political cartoon, detailed, fantasy, cute, adorable, Pixar, Disney, 8k**
 
-![alt text]()
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(8).png)
 
 **Prompt black king with crown sitting on throne holding sword, detailed, fantasy, dark, Pixar, Disney, 8k**
 
-![alt text]()
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(9).png)
 
+*Images created using [StableDiffusionIMG2IMGNotebook](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_img2img.ipynb)* 
