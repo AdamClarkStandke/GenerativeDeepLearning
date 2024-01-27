@@ -213,7 +213,7 @@ Left image is the input image, right image is newly generated image based on pro
 
 **Prompt: my face with afro hairstyle**
 
-![alt text]()
+![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(10).png)
 
 **Prompt: political cartoon, detailed, fantasy, cute, adorable, Pixar, Disney, 8k**
 
