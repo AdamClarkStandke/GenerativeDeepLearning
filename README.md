@@ -18,6 +18,7 @@ This is a repository that documents different generative learning approaches usi
   >* [StabeDiffusion-LatentSpaceManipulation](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_LatentSpace.ipynb)
   >* [StabeDiffusion-TextualInversion](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/Textual_Inversion.ipynb)
   >* [StabeDiffusion-Image2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_img2img.ipynb)
+  >* [StableVidoDiffusion-Image2Video](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusion.ipynb)
 
 -----------------
 
