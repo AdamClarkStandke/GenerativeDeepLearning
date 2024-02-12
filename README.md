@@ -227,4 +227,11 @@ Left image is the input image, right image is newly generated image based on pro
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(9).png)
 
-*Images created using [StabeDiffusion-Image2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_img2img.ipynb)* 
+*Images created using [StableDiffusion-Image2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffusion_img2img.ipynb)* 
+
+# Stable Video Diffusion 
+
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(4).gif)
+
+*Gif created using  [StableVideoDiffusion-Image2Video](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusion.ipynb) conditioned on non synthetic generated image of [battlefield 1942©](https://cdn.mos.cms.futurecdn.net/nqaqx4jzpn3siKMFtqTmH5.jpg)*
+
