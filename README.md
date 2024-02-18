@@ -253,8 +253,22 @@ Left image is the input image, right image is newly generated image based on pro
 
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(9).gif)
 
-*Gif created with textual inversion of my face*
+*Gif created with textual inversion of my face using [huggining face's textual inversion tutorial](https://huggingface.co/docs/diffusers/en/training/text_inversion) as found in the notebook  *
 
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(10).gif)
 
-*Gif created with textual inversion of my face*
+*Gif created with textual inversion of my face using [huggining face's textual inversion tutorial](https://huggingface.co/docs/diffusers/en/training/text_inversion) as found in the notebook  *
+
+**Combining Keras Model Weights with Pytorch Model** 
+
+The previous gifs were created using [huggining face's textual inversion tutorial](https://huggingface.co/docs/diffusers/en/training/text_inversion) using the defalut parameters of the script and the model-Id of runwayml/stable-diffusion-v1-5. After training for 1 hour with my placeholder token of <my-face> I was able to generate very basic images with the prompt(s): "man with {placeholder_token}" or "man with {placeholder_token} swimming." The images that were high quality I did use later on in [hugging face's implementation of Stable Video Diffusion](https://huggingface.co/docs/diffusers/main/en/using-diffusers/svd) to create the gifs seen above. However, I noticed that even with [prompt weighting](https://huggingface.co/docs/diffusers/main/en/using-diffusers/weighted_prompts) and various variations of guidance_scale, I was not able to generate an accurate image using long prompts such as this: "man  with {placeholder_token} in fancy suit driving ferrari on highway in Berlin, side view." There could be many reasons why this is so (probably something in the training script I am missing in regards to embedding longer prompts). 
+
+With that being said, I wanted to generate images of me driving a nice car in a fancy (boogie) suit, so I used my pretrained weights from [combining Stable Diffusion's Textual Embedding Space with its Image Manifold through Textual Inversion and non-style prompts](https://keras.io/examples/generative/fine_tune_via_textual_inversion/) to generate a decent image and feed that image into [hugging face's implementation of Stable Video Diffusion](https://huggingface.co/docs/diffusers/main/en/using-diffusers/svd). The end result of doing so was acceptable (execpt it was an old ferrari, but at least it gave me some cool glasses lol).  
+
+![]()
+
+*Image created with [pretrained weights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/Keras_Weights.ipynb) from Kera's tutortial on textual inversion using the images of my face as found in the section combining Stable Diffusion's Textual Embedding Space with its Image Manifold through Textual Inversion and non-style prompts with the following paramters/prompts:  negative_prompt="ugly, deformed, disfigured, poor details, bad anatomy", prompt="man  with {placeholder_token} in fancy suit driving ferrari on highway in Berlin, side view", unconditional_guidance_scale=12, num_steps=100*
+
+![]()
+
+*Gif created with [hugging face's implementation of Stable Video Diffusion](https://huggingface.co/docs/diffusers/main/en/using-diffusers/svd) with the following parameters:motion = 100, augmentation = 0.02 and latent/pre-generated=None*
