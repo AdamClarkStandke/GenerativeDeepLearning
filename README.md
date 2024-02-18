@@ -271,4 +271,4 @@ With that being said, I wanted to generate images of me driving a nice car in a 
 
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(12).gif)
 
-*Gif created with [hugging face's implementation of Stable Video Diffusion](https://huggingface.co/docs/diffusers/main/en/using-diffusers/svd) with the following parameters:motion = 100, augmentation = 0.02 and latent/pre-generated=None*
+*Gif created with [SVD](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusionCustom.ipynb) with the following parameters:motion = 100, augmentation = 0.02 and latent/pre-generated=None*
