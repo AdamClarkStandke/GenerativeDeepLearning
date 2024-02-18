@@ -265,10 +265,10 @@ The previous gifs were created using [huggining face's textual inversion tutoria
 
 With that being said, I wanted to generate images of me driving a nice car in a fancy (boogie) suit, so I used my pretrained weights from [combining Stable Diffusion's Textual Embedding Space with its Image Manifold through Textual Inversion and non-style prompts](https://keras.io/examples/generative/fine_tune_via_textual_inversion/) to generate a decent image and feed that image into [hugging face's implementation of Stable Video Diffusion](https://huggingface.co/docs/diffusers/main/en/using-diffusers/svd). The end result of doing so was acceptable (execpt it was an old ferrari, but at least it gave me some cool glasses lol).  
 
-![]()
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(13).png)
 
 *Image created with [pretrained weights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/Keras_Weights.ipynb) from Kera's tutortial on textual inversion using the images of my face as found in the section combining Stable Diffusion's Textual Embedding Space with its Image Manifold through Textual Inversion and non-style prompts with the following paramters/prompts:  negative_prompt="ugly, deformed, disfigured, poor details, bad anatomy", prompt="man  with {placeholder_token} in fancy suit driving ferrari on highway in Berlin, side view", unconditional_guidance_scale=12, num_steps=100*
 
-![]()
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(12).gif)
 
 *Gif created with [hugging face's implementation of Stable Video Diffusion](https://huggingface.co/docs/diffusers/main/en/using-diffusers/svd) with the following parameters:motion = 100, augmentation = 0.02 and latent/pre-generated=None*
