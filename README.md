@@ -251,3 +251,10 @@ Left image is the input image, right image is newly generated image based on pro
 
 *Gif created using  [StableVideoDiffusion-Image2Video](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusion.ipynb) using the folloing hyperparameters: motion_bucket_id=200, noise_aug_strength=0.02, latents=None*
 
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(9).gif)
+
+*Gif created with textual inversion of my face*
+
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(10).gif)
+
+*Gif created with textual inversion of my face*
