@@ -253,11 +253,11 @@ Left image is the input image, right image is newly generated image based on pro
 
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(9).gif)
 
-*Gif created with textual inversion of my face using [huggining face's textual inversion tutorial](https://huggingface.co/docs/diffusers/en/training/text_inversion) as found in the notebook  *
+*Gif created with textual inversion of my face using [huggining face's textual inversion tutorial](https://huggingface.co/docs/diffusers/en/training/text_inversion) as found in the notebook [HuggingFace_textualInversion_Myweights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/textInversion.ipynb)*
 
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(10).gif)
 
-*Gif created with textual inversion of my face using [huggining face's textual inversion tutorial](https://huggingface.co/docs/diffusers/en/training/text_inversion) as found in the notebook  *
+*Gif created with textual inversion of my face using [huggining face's textual inversion tutorial](https://huggingface.co/docs/diffusers/en/training/text_inversion) as found in the notebook [HuggingFace_textualInversion_Myweights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/textInversion.ipynb)*
 
 **Combining Keras Model Weights with Pytorch Model** 
 
