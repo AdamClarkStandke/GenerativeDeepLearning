@@ -272,3 +272,7 @@ With that being said, I wanted to generate images of me driving a nice car in a 
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(12).gif)
 
 *Gif created with [SVD](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusionCustom.ipynb) with the following parameters:motion = 100, augmentation = 0.02 and latent/pre-generated=None*
+
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(13).gif)
+
+*Gif created with [SVD](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusionCustom.ipynb) with the following parameters:motion = 50, augmentation = 0.02 and latent/pre-generated=None*
