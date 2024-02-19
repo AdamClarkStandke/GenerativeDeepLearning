@@ -21,7 +21,7 @@ This is a repository that documents different generative learning approaches usi
   >* [StableVideoDiffusion-Image2Video](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusion.ipynb)
 
 -----------------
-
+<!---
 **Click the picture to hear machine generated music** 
 
 [![CLICK HERE](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/generated_art.png)](https://soundcloud.com/adam-klausii-s)
@@ -68,6 +68,7 @@ This is a repository that documents different generative learning approaches usi
 
 *Images created using [StableDiffusion-Text2Image](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableDiffustion_Text2Image.ipynb)*
 
+--->
 --------------------
 # Traversing Along Stable Diffusion's Latent Space
 
