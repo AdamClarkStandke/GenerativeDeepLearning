@@ -104,13 +104,16 @@ This is a repository that documents different generative learning approaches usi
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/faces_two%20(5).png)
 
+<!---
 **Prompt: gandalf the gray as a {placeholder_token}**
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/faces_two%20(6).png)
-
+--->
+<!---
 **Prompt: two {placeholder_token} getting married, photorealistic, high quality**
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/faces_two%20(7).png)
+--->
 
 *Generated Images created using [StabeDiffusion-TextualInversion](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/Textual_Inversion.ipynb)*
 
@@ -222,11 +225,11 @@ Left image is the input image, right image is newly generated image based on pro
 **Prompt: my face with afro hairstyle**
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(10).png)
-
+<!---
 **Prompt: political cartoon, detailed, fantasy, cute, adorable, Pixar, Disney, 8k**
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(8).png)
-
+--->
 **Prompt black king with crown sitting on throne holding sword, detailed, fantasy, dark, Pixar, Disney, 8k**
 
 ![alt text](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/download%20(9).png)
