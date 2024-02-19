@@ -297,3 +297,11 @@ With that being said, I wanted to generate images of me driving a nice car in a 
 
 *Gif created with [Keras-SVD](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusionCustom.ipynb) with the following parameters:motion = 60, augmentation = 0.02 and latent/pre-generated=none*
 
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/me_dancing%20(1).png)
+
+*Image created with [Keras-SVD](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusionCustom.ipynb) from Kera's tutortial on textual inversion using the images of my face as found in the section combining Stable Diffusion's Textual Embedding Space with its Image Manifold through Textual Inversion and non-style prompts with the following paramters/prompts:  negative_prompt="ugly, deformed, disfigured, poor details, bad anatomy", prompt="my {placeholder_token} on face of group of dancing monkeys", unconditional_guidance_scale=10, num_steps=100*
+
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(19).gif)
+
+*Gif created with [Keras-SVD](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusionCustom.ipynb) with the following parameters:motion = 50, augmentation = 0.02 and latent/pre-generated=none*
+
