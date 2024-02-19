@@ -281,7 +281,9 @@ With that being said, I wanted to generate images of me driving a nice car in a 
 
 *Gif created with [SVD](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusionCustom.ipynb) with the following parameters:motion = 50, augmentation = 0.02 and latent/pre-generated=torch.normal(0, 1, size=(1, 25, 4, 72, 128), generator=generator, dtype=torch.float16)*
 
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/me_dancing.png)
+
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(17).gif)
 
-*Gif created with [SVD](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusionCustom.ipynb) with the following parameters:motion = 50, augmentation = 0.02 and latent/pre-generated=torch.normal(0, 1, size=(1, 25, 4, 72, 128), generator=generator, dtype=torch.float16)*
+*Gif created with [SVD](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusionCustom.ipynb) with the following parameters:motion = 50, augmentation = 0.02 and latent/pre-generated=none*
 
