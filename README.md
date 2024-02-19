@@ -293,3 +293,7 @@ With that being said, I wanted to generate images of me driving a nice car in a 
 
 *Gif created with [Keras-SVD](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusionCustom.ipynb) with the following parameters:motion = 50, augmentation = 0.02 and latent/pre-generated=none*
 
+![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(18).gif)
+
+*Gif created with [Keras-SVD](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusionCustom.ipynb) with the following parameters:motion = 60, augmentation = 0.02 and latent/pre-generated=none*
+
