@@ -177,6 +177,8 @@ My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/Stab
 *Gif created using [MyPersonalizedWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/text_inversion_with_myface.ipynb) with the following hyperparameters/configurations: cfg_scale = 8; walk_steps = 60; batch_size = 3; noise_start = normal distribution; diffusion_noise = scaled by min_freq 1 max freq 1000; num_of_Diffusion_steps=50;negative_prompt=None; frame_per_seconds=10*
 
 ----------------------
+
+<!---
 # Textual Inversion of Stable Diffusion's Embedding Space using Style prompts
 
 ### Input Styles:
@@ -207,6 +209,7 @@ My Pre-trained weights can be found [here](https://huggingface.co/SammyTime/Stab
 
 *Images created using [MyPersonalizedSyleWeights](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/TextualInversion_StyleTransfer.ipynb)*
 
+--->
 ----------------------
 # Stable Diffusion Image-to-Image Application
 
@@ -284,7 +287,9 @@ With that being said, I wanted to generate images of me driving a nice car in a 
 
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/me_dancing.png)
 
+*Image created with [Keras-SVD](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusionCustom.ipynb) from Kera's tutortial on textual inversion using the images of my face as found in the section combining Stable Diffusion's Textual Embedding Space with its Image Manifold through Textual Inversion and non-style prompts with the following paramters/prompts:  negative_prompt="ugly, deformed, disfigured, poor details, bad anatomy", prompt="man  with {placeholder_token} in fancy suit dancing", unconditional_guidance_scale=12, num_steps=100*
+
 ![](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/stuff%20(17).gif)
 
-*Gif created with [SVD](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusionCustom.ipynb) with the following parameters:motion = 50, augmentation = 0.02 and latent/pre-generated=none*
+*Gif created with [Keras-SVD](https://github.com/AdamClarkStandke/GenerativeDeepLearning/blob/main/StableVideoDiffusionCustom.ipynb) with the following parameters:motion = 50, augmentation = 0.02 and latent/pre-generated=none*
 
